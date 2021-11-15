@@ -1,16 +1,6 @@
-﻿//using System;
-//using System.Collections.Generic;
-//using System.Text;
-
-//namespace Calculator.XUnitTests {
-//    class BaseTests {
-//    }
-//}
-
-#region Modification Log
+﻿#region Modification Log
 /*------------------------------------------------------------------------------------------------------------------------------------------------- 
-   System      -   Abacus Online Calculator
-   Client      -   Abacus          
+   System      -   Online Calculator      
    Module      -   Test
    Sub_Module  -   
    Copyright   -   Anuruddha.Rajapaksha   

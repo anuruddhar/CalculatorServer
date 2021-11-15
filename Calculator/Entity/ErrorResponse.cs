@@ -1,7 +1,6 @@
 ﻿#region Modification Log
 /*------------------------------------------------------------------------------------------------------------------------------------------------- 
-   System      -   Abacus Online Calculator
-   Client      -   Abacus          
+   System      -   Online Calculator        
    Module      -   Entity
    Sub_Module  -   
    Copyright   -   Anuruddha.Rajapaksha   
